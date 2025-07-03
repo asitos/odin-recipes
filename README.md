@@ -3,6 +3,8 @@
 a simple, aesthetic practice project using only HTML (and optionally CSS)  
 built to learn structure, tags, and create pages that feel soft, personal, and expressive.  
 
+project live at: https://asitos.github.io/odin-recipes/
+
 ---
 
 ## 💡 what's in this project?
