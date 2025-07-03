@@ -33,7 +33,7 @@ project-folder/
 
 ## 🖼️ preview
 
-> ![screenshot of the website](images/screenshot.jpg)  
+> ![screenshot of the website](images/screenshot.png)  
 > *this is just one page — there are more pages to explore :3*
 
 ---
