@@ -57,5 +57,7 @@ project-folder/
    
 2. open index.html in your browser.
 
+3. blahh blah blah blah
+
 
 
