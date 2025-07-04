@@ -53,7 +53,7 @@ project-folder/
 
 1. clone or download the project:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://asitos.github.io/odin-recipes/
    
 2. open index.html in your browser.
 
